@@ -1,2 +1,2 @@
 # MockBookService
-Small Spring app to organize books. 
+Api to organize books. 
